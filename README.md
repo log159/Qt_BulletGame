@@ -1,2 +1,2 @@
 # Qt_BulletGame
-一个C++&amp;Qt的弹幕游戏项目
+一个C++\Qt的弹幕游戏项目
